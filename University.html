@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ontology Viewer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#classes" class="tab-link" data-target="classes">Classes</a></li>
+            <li><a href="#view-ontograph" class="tab-link" data-target="view-ontograph">View Ontograph</a></li>
+            <li><a href="#view-ttl-file" class="tab-link" data-target="view-ttl-file">View TTL File</a></li>
+            <li><a href="#view-queries" class="tab-link" data-target="view-queries">View Queries</a></li>
+        </ul>
+    </nav>
+    
+    <div id="content">
+        <section id="classes" class="tab-section">
+            <h2>Classes</h2>
+            <div id="class-list">
+                <!-- Class structure will be dynamically loaded here -->
+            </div>
+            <div id="class-details">
+                <!-- Class details will be displayed here -->
+            </div>
+        </section>
+        
+        <section id="view-ontograph" class="tab-section">
+            <h2>View Ontograph</h2>
+            <img src="Ontograph.png" alt="Ontology Graph">
+        </section>
+        
+        <section id="view-ttl-file" class="tab-section">
+            <h2>View TTL File</h2>
+            <input type="file" id="ttl-file-input" accept=".ttl">
+            <pre id="ttl-file-content">
+                <!-- TTL file content will be displayed here -->
+            </pre>
+        </section>
+        
+        <section id="view-queries" class="tab-section">
+            <h2>View Queries</h2>
+            <select id="query-dropdown">
+                <option value="">Select a query</option>
+                <!-- Query options will be dynamically loaded here -->
+            </select>
+            <div id="query-display">
+                <!-- Query will be displayed here -->
+            </div>
+            <button id="run-button">Run</button>
+            <div id="query-output">
+                <!-- Query output will be displayed here -->
+            </div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

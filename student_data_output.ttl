@@ -1,0 +1,832 @@
+<http://example.org/student/S_028>
+        <http://example.org/enrolledCourseId>
+                "S_107" , "S_102";
+        <http://example.org/enrolledCourseName>
+                "Geometry" , "Conservation";
+        <http://example.org/facultyId>  "F_011" , "F_007";
+        <http://example.org/facultyName>
+                "Lisa Adams" , "Dr. Jessica Taylor";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Hannah Taylor" .
+
+<http://example.org/student/S_036>
+        <http://example.org/enrolledCourseId>
+                "B_201" , "B_103";
+        <http://example.org/enrolledCourseName>
+                "Law" , "International_Relations";
+        <http://example.org/facultyId>  "F_012";
+        <http://example.org/facultyName>
+                "James White";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Mia Allen" .
+
+<http://example.org/student/S_044>
+        <http://example.org/enrolledCourseId>
+                "H_108" , "H_301";
+        <http://example.org/enrolledCourseName>
+                "Social_Theory" , "Urban_Sociology";
+        <http://example.org/facultyId>  "F_005";
+        <http://example.org/facultyName>
+                "Prof. Laura Evans";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Emily Walker" .
+
+<http://example.org/student/S_007>
+        <http://example.org/enrolledCourseId>
+                "S_401" , "S_301";
+        <http://example.org/enrolledCourseName>
+                "Calculus" , "Environmental_Policy";
+        <http://example.org/facultyId>  "F_003" , "F_007";
+        <http://example.org/facultyName>
+                "Dr. Jessica Taylor" , "Dr. Emily White";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "David Garcia" .
+
+<http://example.org/student/S_015>
+        <http://example.org/enrolledCourseId>
+                "S_401" , "S_302";
+        <http://example.org/enrolledCourseName>
+                "Environmental_Policy" , "AstroPhysics";
+        <http://example.org/facultyId>  "F_007" , "F_011";
+        <http://example.org/facultyName>
+                "Lisa Adams" , "Dr. Jessica Taylor";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Alexander King" .
+
+<http://example.org/student/S_023>
+        <http://example.org/enrolledCourseId>
+                "S_401" , "S_302";
+        <http://example.org/enrolledCourseName>
+                "AstroPhysics" , "Environmental_Policy";
+        <http://example.org/facultyId>  "F_007" , "F_011";
+        <http://example.org/facultyName>
+                "Dr. Jessica Taylor" , "Lisa Adams";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Daniel Martinez" .
+
+<http://example.org/student/S_031>
+        <http://example.org/enrolledCourseId>
+                "B_501" , "B_301";
+        <http://example.org/enrolledCourseName>
+                "Politics" , "Macro_Economics";
+        <http://example.org/facultyId>  "F_004" , "F_008";
+        <http://example.org/facultyName>
+                "Prof. Steven Wilson" , "Dr. Michael Green";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "James Walker" .
+
+<http://example.org/student/S_002>
+        <http://example.org/enrolledCourseId>
+                "S_102" , "S_101";
+        <http://example.org/enrolledCourseName>
+                "Conservation" , "Probability";
+        <http://example.org/facultyId>  "F_003" , "F_007";
+        <http://example.org/facultyName>
+                "Dr. Emily White" , "Dr. Jessica Taylor";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Emily Johnson" .
+
+<http://example.org/student/S_010>
+        <http://example.org/enrolledCourseId>
+                "S_103" , "S_101";
+        <http://example.org/enrolledCourseName>
+                "Probability" , "Geometry";
+        <http://example.org/facultyId>  "F_011" , "F_003";
+        <http://example.org/facultyName>
+                "Lisa Adams" , "Dr. Emily White";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Mia Taylor" .
+
+<http://example.org/student/S_038>
+        <http://example.org/enrolledCourseId>
+                "H_301" , "H_204";
+        <http://example.org/enrolledCourseName>
+                "Philosophy_of_Mind" , "Social_Theory";
+        <http://example.org/facultyId>  "F_009" , "F_005";
+        <http://example.org/facultyName>
+                "Sarah Johnson" , "Prof. Laura Evans";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Sofia Johnson" .
+
+<http://example.org/student/S_046>
+        <http://example.org/enrolledCourseId>
+                "H_109" , "H_101";
+        <http://example.org/enrolledCourseName>
+                "Art_History" , "Art_Theory";
+        <http://example.org/facultyId>  "F_001";
+        <http://example.org/facultyName>
+                "Dr. Alice Brown";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Ava Williams" .
+
+<http://example.org/student/S_009>
+        <http://example.org/enrolledCourseId>
+                "B_501" , "B_401";
+        <http://example.org/enrolledCourseName>
+                "MacroEconomics" , "Micro_Economics";
+        <http://example.org/facultyId>  "F_004";
+        <http://example.org/facultyName>
+                "Dr. Michael Green";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Daniel Lee" .
+
+<http://example.org/student/S_017>
+        <http://example.org/enrolledCourseId>
+                "S_301" , "S_303";
+        <http://example.org/enrolledCourseName>
+                "Climate_Change" , "Calculus";
+        <http://example.org/facultyId>  "F_011" , "F_003";
+        <http://example.org/facultyName>
+                "Lisa Adams" , "Dr. Emily White";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Henry Hall" .
+
+<http://example.org/student/S_025>
+        <http://example.org/enrolledCourseId>
+                "E_102" , "E_103";
+        <http://example.org/enrolledCourseName>
+                "Dynamics" , "Circuits";
+        <http://example.org/facultyId>  "F_002";
+        <http://example.org/facultyName>
+                "Prof. John Smith";
+        <http://example.org/studentDeptId>
+                "D_03";
+        <http://example.org/studentDeptName>
+                "Engineering";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Lucas Wright" .
+
+<http://example.org/student/S_033>
+        <http://example.org/enrolledCourseId>
+                "H_502" , "H_401";
+        <http://example.org/enrolledCourseName>
+                "Digital_Arts" , "Urban_Sociology";
+        <http://example.org/facultyId>  "F_005";
+        <http://example.org/facultyName>
+                "Prof. Laura Evans";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "William Lewis" .
+
+<http://example.org/student/S_041>
+        <http://example.org/enrolledCourseId>
+                "S_301" , "S_108";
+        <http://example.org/enrolledCourseName>
+                "Chemical_Engineering" , "Calculus";
+        <http://example.org/facultyId>  "F_007" , "F_006";
+        <http://example.org/facultyName>
+                "Dr. Richard Lee" , "Dr. Jessica Taylor";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Jacob Robinson" .
+
+<http://example.org/student/S_004>
+        <http://example.org/enrolledCourseId>
+                "H_101" , "H_202";
+        <http://example.org/enrolledCourseName>
+                "Art_History" , "Ethics";
+        <http://example.org/facultyId>  "F_005" , "F_001";
+        <http://example.org/facultyName>
+                "Prof. Laura Evans" , "Dr. Alice Brown";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Sarah Davis" .
+
+<http://example.org/student/S_012>
+        <http://example.org/enrolledCourseId>
+                "H_301" , "H_202";
+        <http://example.org/enrolledCourseName>
+                "Ethics" , "Social_Theory";
+        <http://example.org/facultyId>  "F_005";
+        <http://example.org/facultyName>
+                "Prof. Laura Evans";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Ava Harris" .
+
+<http://example.org/student/S_020>
+        <http://example.org/enrolledCourseId>
+                "B_101" , "B_102";
+        <http://example.org/enrolledCourseName>
+                "Marketing" , "Finance";
+        <http://example.org/facultyId>  "F_004";
+        <http://example.org/facultyName>
+                "Dr. Michael Green";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Grace Young" .
+
+<http://example.org/student/S_048>
+        <http://example.org/enrolledCourseId>
+                "B_101";
+        <http://example.org/enrolledCourseName>
+                "Marketing" , "Finance";
+        <http://example.org/facultyId>  "F_004";
+        <http://example.org/facultyName>
+                "Dr. Michael Green";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Sophia White" .
+
+<http://example.org/student/S_019>
+        <http://example.org/enrolledCourseId>
+                "B_501" , "B_301";
+        <http://example.org/enrolledCourseName>
+                "Macro_Economics" , "Politics";
+        <http://example.org/facultyId>  "F_004";
+        <http://example.org/facultyName>
+                "Dr. Michael Green";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Benjamin Scott" .
+
+<http://example.org/student/S_027>
+        <http://example.org/enrolledCourseId>
+                "H_401" , "H_302";
+        <http://example.org/enrolledCourseName>
+                "Inequality" , "Digital_Arts";
+        <http://example.org/facultyId>  "F_005" , "F_009";
+        <http://example.org/facultyName>
+                "Prof. Laura Evans" , "Sarah Johnson";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Michael Lee" .
+
+<http://example.org/student/S_035>
+        <http://example.org/enrolledCourseId>
+                "H_301" , "H_401";
+        <http://example.org/enrolledCourseName>
+                "Digital_Arts" , "Social_Theory";
+        <http://example.org/facultyId>  "F_005";
+        <http://example.org/facultyName>
+                "Prof. Laura Evans";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Lucas Hall" .
+
+<http://example.org/student/S_043>
+        <http://example.org/enrolledCourseId>
+                "S_108" , "E_301";
+        <http://example.org/enrolledCourseName>
+                "Structural_Analysis" , "Chemical_Engineering";
+        <http://example.org/facultyId>  "F_006";
+        <http://example.org/facultyName>
+                "Dr. Richard Lee";
+        <http://example.org/studentDeptId>
+                "D_03";
+        <http://example.org/studentDeptName>
+                "Engineering";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Daniel Clark" .
+
+<http://example.org/student/S_006>
+        <http://example.org/enrolledCourseId>
+                "S_102" , "S_103";
+        <http://example.org/enrolledCourseName>
+                "Conservation" , "Geometry";
+        <http://example.org/facultyId>  "F_011" , "F_007";
+        <http://example.org/facultyName>
+                "Dr. Jessica Taylor" , "Lisa Adams";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Olivia Martinez" .
+
+<http://example.org/student/S_014>
+        <http://example.org/enrolledCourseId>
+                "H_201" , "H_301";
+        <http://example.org/enrolledCourseName>
+                "Ancient_History" , "Social_Theory";
+        <http://example.org/facultyId>  "F_001" , "F_005";
+        <http://example.org/facultyName>
+                "Dr.Alice Brown" , "Prof. Laura Evans";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Isabella Clark" .
+
+<http://example.org/student/S_022>
+        <http://example.org/enrolledCourseId>
+                "B_102" , "B_103";
+        <http://example.org/enrolledCourseName>
+                "Law" , "Finance";
+        <http://example.org/facultyId>  "F_012" , "F_004";
+        <http://example.org/facultyName>
+                "Dr. Michael Green" , "James White";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Lily Robinson" .
+
+<http://example.org/student/S_030>
+        <http://example.org/enrolledCourseId>
+                "S_110" , "S_109";
+        <http://example.org/enrolledCourseName>
+                "Differential_Equations" , "Network_Security";
+        <http://example.org/facultyId>  "F_010" , "F_011";
+        <http://example.org/facultyName>
+                "Lisa Adams" , "David Clark";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Lily Carter" .
+
+<http://example.org/student/S_001>
+        <http://example.org/enrolledCourseId>
+                "H_401" , "H_501";
+        <http://example.org/enrolledCourseName>
+                "Digital_Arts" , "Poetry";
+        <http://example.org/facultyId>  "F_001";
+        <http://example.org/facultyName>
+                "Dr.Alice Brown" , "Dr. Alice Brown";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "James Smith" .
+
+<http://example.org/student/S_029>
+        <http://example.org/enrolledCourseId>
+                "B_103" , "B_110";
+        <http://example.org/enrolledCourseName>
+                "Law" , "Corporate_Law";
+        <http://example.org/facultyId>  "F_012";
+        <http://example.org/facultyName>
+                "James White";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Aiden Harris" .
+
+<http://example.org/student/S_037>
+        <http://example.org/enrolledCourseId>
+                "S_301" , "S_305";
+        <http://example.org/enrolledCourseName>
+                "Algebra" , "Calculus";
+        <http://example.org/facultyId>  "F_007" , "F_011";
+        <http://example.org/facultyName>
+                "Lisa Adams" , "Dr. Jessica Taylor";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Benjamin Adams" .
+
+<http://example.org/student/S_045>
+        <http://example.org/enrolledCourseId>
+                "S_204" , "S_301";
+        <http://example.org/enrolledCourseName>
+                "Pathology" , "Calculus";
+        <http://example.org/facultyId>  "F_007";
+        <http://example.org/facultyName>
+                "Dr. Jessica Taylor";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Samuel Johnson" .
+
+<http://example.org/student/S_008>
+        <http://example.org/enrolledCourseId>
+                "H_102" , "H_302";
+        <http://example.org/enrolledCourseName>
+                "InEquality" , "Modern_Literature";
+        <http://example.org/facultyId>  "F_005" , "F_009";
+        <http://example.org/facultyName>
+                "Sarah Johnson" , "Prof. Laura Evans";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Sophia Anderson" .
+
+<http://example.org/student/S_016>
+        <http://example.org/enrolledCourseId>
+                "H_101" , "H_202";
+        <http://example.org/enrolledCourseName>
+                "Ethics" , "Art_History";
+        <http://example.org/facultyId>  "F_005" , "F_001";
+        <http://example.org/facultyName>
+                "Prof. Laura Evans" , "Dr. Alice Brown";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Charlotte Walker" .
+
+<http://example.org/student/S_024>
+        <http://example.org/enrolledCourseId>
+                "S_103" , "S_110";
+        <http://example.org/enrolledCourseName>
+                "Network_Security" , "Geometry";
+        <http://example.org/facultyId>  "F_011";
+        <http://example.org/facultyName>
+                "Lisa Adams";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Zoey Adams" .
+
+<http://example.org/student/S_032>
+        <http://example.org/enrolledCourseId>
+                "H_302" , "H_201";
+        <http://example.org/enrolledCourseName>
+                "Ancient_History" , "InEquality";
+        <http://example.org/facultyId>  "F_001" , "F_009";
+        <http://example.org/facultyName>
+                "Sarah Johnson" , "Dr.Alice Brown";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Amelia Turner" .
+
+<http://example.org/student/S_040>
+        <http://example.org/enrolledCourseId>
+                "H_203" , "H_107";
+        <http://example.org/enrolledCourseName>
+                "Medieval_History" , "Poetry";
+        <http://example.org/facultyId>  "F_001" , "F_009";
+        <http://example.org/facultyName>
+                "Sarah Johnson" , "Dr.Alice Brown";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Ella Lewis" .
+
+<http://example.org/student/S_003>
+        <http://example.org/enrolledCourseId>
+                "E_301" , "E_302";
+        <http://example.org/enrolledCourseName>
+                "Software_Engineering" , "Structural_Analysis";
+        <http://example.org/facultyId>  "F_006";
+        <http://example.org/facultyName>
+                "Dr. Richard Lee";
+        <http://example.org/studentDeptId>
+                "D_03";
+        <http://example.org/studentDeptName>
+                "Engineering";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Michael Brown" .
+
+<http://example.org/student/S_011>
+        <http://example.org/enrolledCourseId>
+                "S_501" , "S_302";
+        <http://example.org/enrolledCourseName>
+                "Pathology" , "AstroPhysics";
+        <http://example.org/facultyId>  "F_011" , "F_003";
+        <http://example.org/facultyName>
+                "Lisa Adams" , "Dr. Emily White";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Matthew Wilson" .
+
+<http://example.org/student/S_039>
+        <http://example.org/enrolledCourseId>
+                "S_302" , "S_205";
+        <http://example.org/enrolledCourseName>
+                "AstroPhysics" , "Environmental_Policy";
+        <http://example.org/facultyId>  "F_007" , "F_011";
+        <http://example.org/facultyName>
+                "Dr. Jessica Taylor" , "Lisa Adams";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Alexander Martinez" .
+
+<http://example.org/student/S_047>
+        <http://example.org/enrolledCourseId>
+                "B_301";
+        <http://example.org/enrolledCourseName>
+                "Macro_Economics" , "Politics";
+        <http://example.org/facultyId>  "F_004" , "F_008";
+        <http://example.org/facultyName>
+                "Dr. Michael Green" , "Prof. Steven Wilson";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Matthew Brown" .
+
+<http://example.org/student/S_018>
+        <http://example.org/enrolledCourseId>
+                "H_106" , "H_202";
+        <http://example.org/enrolledCourseName>
+                "Ethics" , "Social_Theory";
+        <http://example.org/facultyId>  "F_005" , "F_001";
+        <http://example.org/facultyName>
+                "Dr. Alice Brown" , "Prof. Laura Evans";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Ella Allen" .
+
+<http://example.org/student/S_026>
+        <http://example.org/enrolledCourseId>
+                "H_301" , "H_102";
+        <http://example.org/enrolledCourseName>
+                "Modern_Literature" , "Social_Theory";
+        <http://example.org/facultyId>  "F_005";
+        <http://example.org/facultyName>
+                "Prof. Laura Evans";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Nora Green" .
+
+<http://example.org/student/S_034>
+        <http://example.org/enrolledCourseId>
+                "S_102" , "S_201";
+        <http://example.org/enrolledCourseName>
+                "Conservation" , "Probability";
+        <http://example.org/facultyId>  "F_007" , "F_003";
+        <http://example.org/facultyName>
+                "Dr. Jessica Taylor" , "Dr. Emily White";
+        <http://example.org/studentDeptId>
+                "D_02";
+        <http://example.org/studentDeptName>
+                "Science";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Chloe King" .
+
+<http://example.org/student/S_042>
+        <http://example.org/enrolledCourseId>
+                "B_102" , "B_109";
+        <http://example.org/enrolledCourseName>
+                "Finance" , "Curriculum_Development";
+        <http://example.org/facultyId>  "F_012" , "F_004";
+        <http://example.org/facultyName>
+                "James White" , "Dr. Michael Green";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Undergraduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Isabella Brown" .
+
+<http://example.org/student/S_005>
+        <http://example.org/enrolledCourseId>
+                "B_401" , "B_301";
+        <http://example.org/enrolledCourseName>
+                "Micro_Economics" , "Politics";
+        <http://example.org/facultyId>  "F_004" , "F_008";
+        <http://example.org/facultyName>
+                "Dr. Michael Green" , "Prof. Steven Wilson";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "William Wilson" .
+
+<http://example.org/student/S_013>
+        <http://example.org/enrolledCourseId>
+                "H_401" , "H_501";
+        <http://example.org/enrolledCourseName>
+                "Digital_Arts" , "Poetry";
+        <http://example.org/facultyId>  "F_001" , "F_005";
+        <http://example.org/facultyName>
+                "Prof. Laura Evans" , "Dr.Alice Brown";
+        <http://example.org/studentDeptId>
+                "D_01";
+        <http://example.org/studentDeptName>
+                "Humanities";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "James Taylor" .
+
+<http://example.org/student/S_021>
+        <http://example.org/enrolledCourseId>
+                "B_301" , "B_401";
+        <http://example.org/enrolledCourseName>
+                "Micro_Economics" , "Politics";
+        <http://example.org/facultyId>  "F_008" , "F_004";
+        <http://example.org/facultyName>
+                "Dr. Michael Green" , "Prof. Steven Wilson";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Samuel Moore" .
+
+<http://example.org/student/S_049>
+        <http://example.org/enrolledCourseId>
+                "B_501" , "B_301";
+        <http://example.org/enrolledCourseName>
+                "Politics" , "Macro_Economics";
+        <http://example.org/facultyId>  "F_004" , "F_008";
+        <http://example.org/facultyName>
+                "Dr. Michael Green" , "Prof. Steven Wilson";
+        <http://example.org/studentDeptId>
+                "D_04";
+        <http://example.org/studentDeptName>
+                "Business";
+        <http://example.org/studentType>
+                "Graduate";
+        <http://xmlns.com/foaf/0.1/name>
+                "Noah Davis" .

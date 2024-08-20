@@ -1,0 +1,28 @@
+@prefix o: <http://example.org/ontology#> .
+@prefix d: <http://example.org/data#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+d:b1 rdf:type o:Claim ;
+     o:Is_Claim_Against d:x1 ;
+     o:CHARGE_AMOUNT "2000$" ;
+     o:status "active" .
+
+d:x1 rdf:type o:Policy .
+
+d:Alice o:IS_COVERED_BY d:x1 .
+
+d:b2 rdf:type o:Claim ;
+     o:Is_Claim_Against d:x1 ;
+     o:CHARGE_AMOUNT "3000$" .
+
+d:b3 rdf:type o:Claim ;
+     o:Is_Claim_Against d:x2 ;
+     o:CHARGE_AMOUNT "2000$" .
+
+d:x2 rdf:type o:Policy .
+
+d:Sam o:IS_COVERED_BY d:x2 .
+
+d:b4 rdf:type o:Claim ;
+     o:Is_Claim_Against d:x2 ;
+     o:CHARGE_AMOUNT "7000$" .
